@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: laurenwags.github.io
+Token: e6c96376ca1e372d8891cfef6644f7980f9f48a019363fff7cff3aaeb69278e9
